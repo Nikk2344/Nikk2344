@@ -1,83 +1,51 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Nikhil%20Upadhyay&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20QA%20Engineer%20%7C%20Aspiring%20DevOps&descAlignY=60&descColor=8b949e" />
-
+<img src="https://api.dicebear.com/9.x/bottts-neutral/svg?seed=Nikhil2344&backgroundColor=0d1117&baseColor=58a6ff" width="130" alt="Avatar" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%A4%96+AI+%26+LLM+Researcher;%F0%9F%A7%AA+QA+%26+Software+Testing+Engineer;%E2%98%81%EF%B8%8F+Aspiring+Cloud+%26+DevOps+Engineer;%F0%9F%9A%80+Building+the+Future+with+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+LLM+Researcher;QA+%26+Software+Testing+Engineer;Aspiring+Cloud+%26+DevOps+Engineer)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 name: Nikhil Upadhyay
-location: India 🇮🇳
+location: India
 role: Software Engineer @ R&D
-focus:
-  - 🤖 AI Models & Large Language Models (LLMs)
-  - 🧪 QA & Software Testing
-  - ☁️ Cloud Infrastructure & DevOps (Next Goal)
-currently:
-  - 🔬 Researching how large-scale LLMs work under the hood
-  - 🛠️ Building AI-powered projects and tools
-  - 📚 Learning Cloud (AWS/GCP) & DevOps practices
-goal: "Land a DevOps / Cloud Engineering role 🚀"
-open_to: "DevOps, Cloud, AI/ML, and QA opportunities"
+ai_tools: Claude, Ollama, OpenAI, Gemini, Sarvam AI
+project: Sentra - AI Browser Voice Assistant
+goal: Land a DevOps / Cloud Engineering role
+open_to: DevOps, Cloud, AI/ML, QA opportunities
 ```
----
-
-## 🧠 What I Do
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🤖 AI & LLMs
-- Researching large language model architectures
-- Building AI-powered applications
-- Studying how foundation models scale
-- Prompt engineering & fine-tuning experiments
-- Working with LLM APIs (OpenAI, Gemini, etc.)
-
-</td>
-<td valign="top" width="33%">
-
-### 🧪 QA & Testing
-- End-to-end software quality assurance
-- Automated test suite development
-- Robot Framework & Selenium testing
-- API testing & validation
-- Performance and regression testing
-
-</td>
-<td valign="top" width="33%">
-
-### ☁️ Cloud & DevOps *(Learning)*
-- CI/CD pipeline design
-- Docker & containerization
-- Cloud platforms (AWS, GCP)
-- Infrastructure as Code
-- Monitoring & observability
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 🛠️ Tech Stack
+## What I Do
+
+| AI & LLMs | QA & Testing | Cloud & DevOps |
+|---|---|---|
+| LLM research (Claude, Ollama, OpenAI) | End-to-end QA | CI/CD pipeline design |
+| Sentra voice assistant (Chrome Extension) | Robot Framework & Selenium | Docker & containerization |
+| Prompt engineering & fine-tuning | API testing & validation | AWS & GCP (learning) |
+
+---
+
+## Tech Stack
 
 ### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ### Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -89,7 +57,7 @@ open_to: "DevOps, Cloud, AI/ML, and QA opportunities"
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Cloud & DevOps *(In Progress)*
+### Cloud & DevOps (In Progress)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -97,13 +65,11 @@ open_to: "DevOps, Cloud, AI/ML, and QA opportunities"
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikk2344&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk2344&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
 </div>
 
 <div align="center">
@@ -114,48 +80,48 @@ open_to: "DevOps, Cloud, AI/ML, and QA opportunities"
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
+## Featured Projects
 
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Nikk2344&repo=My-Portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/Nikk2344/My-Portfolio)
 [![Articles API](https://github-readme-stats.vercel.app/api/pin/?username=Nikk2344&repo=articles-api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/Nikk2344/articles-api)
 
-</div>
+### Sentra - AI Browser Voice Assistant (Coming Soon)
+
+> An always-on AI Chrome extension — built with Claude, Ollama, OpenAI & Sarvam AI.
+> Features real-time voice interaction, multi-tab page awareness, and seamless LLM switching.
+
+![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-Claude%20%7C%20Ollama%20%7C%20OpenAI%20%7C%20Chrome-blueviolet?style=for-the-badge)
 
 ---
 
-## 🎯 2025–2026 Goals
+## Goals 2025-2026
 
-```
-🟦 Deep dive into LLM fine-tuning and RAG architectures
-🟦 Get AWS Cloud Practitioner certified
-🟦 Master Docker & Kubernetes
-🟦 Build a full DevOps pipeline project (CI/CD + Cloud deploy)
-🟦 Land a Cloud / DevOps Engineering role
-🟦 Contribute to open-source AI projects
-```
+- Deep dive into LLM fine-tuning and RAG architectures
+- Get AWS Cloud Practitioner certified
+- Master Docker & Kubernetes
+- Build a full DevOps pipeline project
+- Land a Cloud / DevOps Engineering role
+- Release Sentra as open-source
 
 ---
 
-## 📧 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nikk2344-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikk2344)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-upadhyay)
-[![Email](https://img.shields.io/badge/Email-Reach_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-nikhil.u8882%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil.u8882@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikk2344&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"The best way to predict the future is to build it."* 🚀
-
+"The best way to predict the future is to build it." 🚀
 </div>
